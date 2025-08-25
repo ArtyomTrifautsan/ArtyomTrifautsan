@@ -6,7 +6,7 @@
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ArtyomTrifautsan&theme=solarized_dark" width="100%"/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ArtyomTrifautsan](https://github.com/ashutosh00710/github-readme-activity-graph" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ArtyomTrifautsan" width="100%"/>
 
 <!--
 **ArtyomTrifautsan/ArtyomTrifautsan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
