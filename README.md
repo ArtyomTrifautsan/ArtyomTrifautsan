@@ -4,6 +4,8 @@
 
 <img src="https://komarev.com/ghpvc/?username=ArtyomTrifautsan" height="32"/>
 
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ArtyomTrifautsan&theme=solarized_dark"/>
+
 <!--
 **ArtyomTrifautsan/ArtyomTrifautsan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
