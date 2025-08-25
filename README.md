@@ -1,4 +1,6 @@
-## Hi there 👋
+<h1 align="center">Hi there, I'm <a href="https://ru.wikipedia.org/wiki/%D0%90%D1%80%D1%82%D1%91%D0%BC" target="_blank">Artyom</a> 
+<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+<h3 align="center">Computer science student, IT news writer from Russia 🇷🇺</h3>
 
 <!--
 **ArtyomTrifautsan/ArtyomTrifautsan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
